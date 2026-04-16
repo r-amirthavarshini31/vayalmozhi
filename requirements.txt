@@ -1,5 +1,4 @@
-setuptools==68.0.0
-flask==3.0.0
+flask==2.3.3
 flask-cors==4.0.0
-Pillow==9.4.0
-gunicorn==21.2.0
+Pillow==9.3.0
+gunicorn
